@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">" WheelFortune"</string>
+    <string name="response_error">Failed to get prize id</string>
+    <string name="network_connection_fail">No internet found</string>
+    <string name="prize_id">Prize Id is</string>
+    <string name="prize_name">Prize name is</string>
+</resources>
